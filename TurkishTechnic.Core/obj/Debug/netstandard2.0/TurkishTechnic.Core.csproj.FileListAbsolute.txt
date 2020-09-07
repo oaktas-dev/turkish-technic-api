@@ -1,0 +1,8 @@
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\bin\Debug\netstandard2.0\TurkishTechnic.Core.deps.json
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\bin\Debug\netstandard2.0\TurkishTechnic.Core.dll
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\bin\Debug\netstandard2.0\TurkishTechnic.Core.pdb
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\obj\Debug\netstandard2.0\TurkishTechnic.Core.AssemblyInfoInputs.cache
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\obj\Debug\netstandard2.0\TurkishTechnic.Core.AssemblyInfo.cs
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\obj\Debug\netstandard2.0\TurkishTechnic.Core.csproj.CoreCompileInputs.cache
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\obj\Debug\netstandard2.0\TurkishTechnic.Core.dll
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.Core\obj\Debug\netstandard2.0\TurkishTechnic.Core.pdb

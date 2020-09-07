@@ -1,0 +1,5 @@
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.WebAPI\obj\Debug\netcoreapp3.1\TurkishTechnic.WebAPI.csprojAssemblyReference.cache
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.WebAPI\obj\Debug\netcoreapp3.1\TurkishTechnic.WebAPI.AssemblyInfoInputs.cache
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.WebAPI\obj\Debug\netcoreapp3.1\TurkishTechnic.WebAPI.AssemblyInfo.cs
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.WebAPI\obj\Debug\netcoreapp3.1\TurkishTechnic.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\oaktas\source\repos\TurkishTechnic.Entities\TurkishTechnic.WebAPI\obj\Debug\netcoreapp3.1\TurkishTechnic.WebAPI.MvcApplicationPartsAssemblyInfo.cache
